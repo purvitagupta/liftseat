@@ -1,0 +1,6 @@
+name: Demo Module
+type: module
+description: This is a demo module written in Drupal 8.
+package: Custom
+version: 1.0
+core: 8.x

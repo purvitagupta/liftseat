@@ -1,0 +1,40 @@
+name: Nexus Theme
+type: theme
+description: 'Nexus Theme is a premium Drupal 7 theme. Developed by <a href="http://www.devsaran.com">Devsaran.com</a>.'
+# core: 8.x
+
+# Regions
+regions:
+  top_header: 'Top Header'
+  second_header: 'Second Header'
+  header: 'Header'
+  main_navigation: 'Main Navigation'
+  highlighted_topi: 'Highlighted Top1' 
+  highlighted_top: 'Highlighted Top'
+  highlighted: 'Highlighted'
+  feefo_block: 'Feefo-Block'
+  preface_first: 'Preface First'
+  preface_second: 'Preface Second'
+  preface_third: 'Preface Third'
+  sidebar_first: 'First Sidebar'
+  content_top: 'Content Top'
+  help: 'Help'
+  content: 'Content'
+  footer: 'Footer'
+  footer_left: 'First Left'
+  footer_right: 'First Right'
+  footer_first: 'First Bottom'
+  footer_second: 'Second Bottom'
+  footer_third: 'Third Bottom'
+  footer_fourth: 'Fourth Bottom'
+
+# Assets
+libraries:
+  - nexus/global-css
+  - nexus/global-js
+
+# Information added by Drupal.org packaging script on 2018-06-08
+version: '8.x-1.4'
+core: '8.x'
+project: 'nexus'
+datestamp: 1528444991
